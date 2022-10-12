@@ -1,5 +1,6 @@
 // events handling in  javascript
 
+// javascript dom
 function handleClick() {
   alert("You have clicked a button");
 }
