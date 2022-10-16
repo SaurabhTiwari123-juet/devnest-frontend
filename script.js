@@ -11,6 +11,7 @@ document.getElementById("btnn").onclick = handleClick;
 document.getElementById("btnn").addEventListener("click", handleClick);
 // js dom
 
+// js events and forms
 document
   .getElementById("start")
   .addEventListener("click", function handleClick() {
@@ -26,3 +27,4 @@ document
       console.log(event);
     });
   });
+//
