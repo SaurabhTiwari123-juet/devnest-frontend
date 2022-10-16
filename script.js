@@ -10,3 +10,11 @@ document.getElementById("btnn").onclick = handleClick;
 //recommended way
 document.getElementById("btnn").addEventListener("click", handleClick);
 // js dom
+
+
+
+
+
+
+
+
